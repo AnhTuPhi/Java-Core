@@ -45,3 +45,17 @@ Using hashcode()
 Write a Java program to find whether a region in the current string matches a region in another string.
 
 # Practice 11
+Write a Java program to get a substring of a given string between two specified positions.
+
+# Practice 12
+Write a Java program to print after removing duplicates from a given string.
+
+# Practice 13
+Write a Java program to find the maximum occurring character in a string
+
+#Practice 14
+Remove string in string
+
+# Practice 15
+Count the number of words ending in 'm' or 'n' (not case sensitive) in a given text
+
