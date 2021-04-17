@@ -40,3 +40,8 @@ June 19, 2017
 # Practice 9
 Write a Java program to create a unique identifier of a given string
 Using hashcode()
+
+# Practice 10
+Write a Java program to find whether a region in the current string matches a region in another string.
+
+# Practice 11
