@@ -59,3 +59,11 @@ Remove string in string
 # Practice 15
 Count the number of words ending in 'm' or 'n' (not case sensitive) in a given text
 
+# Practice 16 
+Write a Java program to create a new string from a given string after removing the 2nd character from the substring of length three starting with 'z' and ending with 'g' presents in the said string.
+
+# Practice 17
+Write a Java program to create a new string repeating every character twice of a given string.
+
+# Practice 18
+Write a Java program to return a substring after removing the all instances of remove string as given from the given main string
